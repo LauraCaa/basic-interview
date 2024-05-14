@@ -1,16 +1,17 @@
-table{
+.table1{
     border-collapse: collapse;
+    box-shadow: 3px 3px 5px rgb(235, 232, 232);
     font-size: 16px;
     font-family: sans-serif;
-    box-shadow: 3px 3px 5px rgb(235, 232, 232);
+    margin: 20px 10px;
 }
-tr:hover{
+.tr1:hover{
     background-color: rgb(6, 6, 88);
+    color: white;
     font-weight: 600;
     font-size: 20px;
-    color: white;
 }
-td{
+.td1{
     padding: 15px;
 }
 .text-bold{

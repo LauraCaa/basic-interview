@@ -1,0 +1,46 @@
+{
+    "users": [
+      {
+        "id": "6626ebbc88e5a8272bfd0de2",
+        "picture": "https://via.placeholder.com/50",
+        "balance": 61,
+        "name": "Newman Mays",
+        "status": "active"
+      },
+      {
+        "id": "6626ebbcf229938d53ab63d6",
+        "picture": "https://via.placeholder.com/50",
+        "balance": 0,
+        "name": "Jenifer Caldwell",
+        "status": "active"
+      },
+      {
+        "id": "6626ebbcb54389f0fb7ccae6",
+        "picture": "https://via.placeholder.com/50",
+        "balance": -70,
+        "name": "Kirkland Olsen",
+        "status": "active"
+      },
+      {
+        "id": "6626ebbc00f01bc8e07df8d9",
+        "picture": "https://via.placeholder.com/50",
+        "balance": 48,
+        "name": "Elisa Chambers",
+        "status": "active"
+      },
+      {
+        "id": "6626ebbcbf0ccd5c3401cac0",
+        "picture": "https://via.placeholder.com/50",
+        "balance": -65,
+        "name": "Buckley Whitney",
+        "status": "active"
+      },
+      {
+        "id": "6626ebbcd791308cdcb4c2c1",
+        "picture": "https://via.placeholder.com/50",
+        "balance": 65,
+        "name": "Peck Russell",
+        "status": "active"
+      }
+    ]
+  }

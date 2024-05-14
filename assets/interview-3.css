@@ -1,0 +1,39 @@
+.table2{
+    background-color: #f2f5f9;
+    font-family: sans-serif;
+    margin: 20px 10px;
+}
+.tr2{
+    border-radius: 20px;
+    background-color: white;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+}
+.td2{
+    font-weight: bold;
+    text-align: right;
+    padding: 0 5px;
+    width: 50px;
+}
+.img2{
+    border-radius: 50px;
+}
+.name-td{
+    padding: 5px;
+    width: 70px;
+}
+.span2{
+    border: 0.8px solid #ebeef6;
+    margin-left: 10px;
+    text-align: right;
+}
+.gray-text{
+    color: gray;
+}
+.green-text{
+    color: green;
+}
+.red-text{
+    color: red;
+}
