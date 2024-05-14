@@ -1,0 +1,33 @@
+table{
+    border-collapse: collapse;
+    font-size: 16px;
+    font-family: sans-serif;
+    box-shadow: 3px 3px 5px rgb(235, 232, 232);
+}
+tr:hover{
+    background-color: rgb(6, 6, 88);
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+}
+td{
+    padding: 15px;
+}
+.text-bold{
+    font-weight: 600;
+}
+.red-text{
+    color: rgb(203, 16, 84);
+}
+.green-text{
+    color: rgb(16, 145, 68);
+}
+.text-aling-right{
+    text-align: right;
+}
+.xs-text{
+    font-size: 12px;
+}
+.capitalize-style{
+    text-transform: capitalize;
+}

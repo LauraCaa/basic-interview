@@ -1,0 +1,21 @@
+{
+    "mosaic": {
+      "overall": {
+        "score": 890,
+        "change": -10
+      },
+      "momentum": {
+        "score": 840,
+        "change": 0
+      },
+      "market": {
+        "score": 920,
+        "change": 20
+      },
+      "money": {
+        "score": 920,
+        "change": -10
+      }
+    }
+  }
+  
